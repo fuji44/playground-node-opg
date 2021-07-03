@@ -1,0 +1,18 @@
+{
+  "name": "playground-node-opg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/open-graph-scraper": "^4.8.0",
+    "open-graph-scraper": "^4.9.0",
+    "ts-node": "^10.0.0",
+    "typescript": "^4.3.5",
+    "unfurl.js": "^5.3.0"
+  }
+}
